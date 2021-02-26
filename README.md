@@ -1,6 +1,6 @@
 # Starbucks Capstone Challenge
 This project is a submission for Udacity Data Scientist Nanodegree program.
-A blog detailing the findings of this project can be found in on https://hegdenandini.medium.com/recommending-starbucks-offers-to-members-c6cd6fbb78a7
+A blog detailing the findings of this project can be found on https://hegdenandini.medium.com/recommending-starbucks-offers-to-members-c6cd6fbb78a7
 
 ## Table of Contents
 1. Required Installations
