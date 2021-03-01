@@ -20,7 +20,7 @@ This project is a submission for Udacity Data Scientist Nanodegree programy. The
 We are interested to answer the following two questions:
 
 Which offer should be sent to a particular customer to let the customer buy more?
-Which demographic groups respond best to which offer type?
+Which offer has the maximum reactions
 
 ## Dataset Descriptions
 The notebook available here showcases work related to the above questions.
@@ -32,7 +32,7 @@ The dataset consists of three files:
 
 ## Results
 Based on our analysis we found that Starbucks customer demographic is middle aged to older folks with a annual income <$100000.
-Women tend to respond to offers more and social media have the highest responses. Finally we identified that BOGO offers have the highest gains for Starbucks
+Discount offers have the maximum number of reactions from customers.
 
 ## Licensing, Authors, Acknowledgements
 Dataset credits to Starbucks.
